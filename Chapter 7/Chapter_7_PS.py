@@ -107,8 +107,27 @@ l1 = ["Harry", "Sohan", "Sachin", "Rahul", "Sourav", "Sameer"]
 
 # Q10. Write a program to print multiplication table of a given number using for loop in reverse order.
 
+# n = int(input("Enter a number: "))
+
+# for i in range(1, 11):
+#     print(f"{n} x {11 - i} = {n*( 11 - i)}")
+
+# Q7. Write a program to print the following pattern.
+'''
+  *  
+ * * 
+*****   n=3
+'''    
+
 n = int(input("Enter a number: "))
 
-for i in range(1, 11):
-    print(f"{n} x {11 - i} = {n*( 11 - i)}")
+for i in range(1, n + 1):
+    print(" "*(n-i), end="")
+    if i == 1:
+      print("*")
+    elif i == n:
+        print("*"*(2*n-1) )
+    else:
+       print("*" + " " * (2*i - 3) + "*")
     
+  

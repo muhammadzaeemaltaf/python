@@ -9,5 +9,13 @@ This repository documents my Python learning journey, covering various topics:
 - **Chapter 5:** Dictionaries, sets, and related functions.
 - **Chapter 6:** Control flow, conditionals, and loop examples.
 - **Chapter 7:** Looping constructs, pattern printing, and more.
+- **Chapter 8:** Functions, recursion, and problem-solving techniques.
+
+
+
+# Project Details
+
+## Project 1: Snake-Water-Gun Game
+Implemented in Python.
 
 Happy Learning!
