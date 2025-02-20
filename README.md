@@ -11,6 +11,7 @@ This repository documents my Python learning journey, covering various topics:
 - **Chapter 7:** Looping constructs, pattern printing, and more.
 - **Chapter 8:** Functions, recursion, and problem-solving techniques.
 - **Chapter 9:** File I/O and its functions.
+- **Chapter 10:** OPP.
 
 
 
