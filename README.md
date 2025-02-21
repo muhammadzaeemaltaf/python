@@ -12,6 +12,7 @@ This repository documents my Python learning journey, covering various topics:
 - **Chapter 8:** Functions, recursion, and problem-solving techniques.
 - **Chapter 9:** File I/O and its functions.
 - **Chapter 10:** OPP.
+- **Chapter 11:** OPP Methods.
 
 
 
