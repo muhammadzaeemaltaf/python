@@ -20,5 +20,7 @@ This repository documents my Python learning journey, covering various topics:
 
 ## Project 1: Snake-Water-Gun Game
 Implemented in Python.
+## Project 2: Number Guessing Game
+Implemented in Python.
 
 Happy Learning!
