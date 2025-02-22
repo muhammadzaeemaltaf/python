@@ -13,6 +13,8 @@ This repository documents my Python learning journey, covering various topics:
 - **Chapter 9:** File I/O and its functions.
 - **Chapter 10:** OPP.
 - **Chapter 11:** OPP Methods.
+- **Chapter 12:** Pyhton Advance Topics # 1.
+
 
 
 
