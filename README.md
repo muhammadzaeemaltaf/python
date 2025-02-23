@@ -13,7 +13,8 @@ This repository documents my Python learning journey, covering various topics:
 - **Chapter 9:** File I/O and its functions.
 - **Chapter 10:** OPP.
 - **Chapter 11:** OPP Methods.
-- **Chapter 12:** Pyhton Advance Topics # 1.
+- **Chapter 12:** Pyhton Advance Topics # 1 (walrus, types, match_case, dict_merge, try_else_finally, global keyword, enumerate, list comprehension).
+- **Chapter 13:** Pyhton Advance Topics # 2 (virtual environment, lambda function, join, format, map, reduce, filter).
 
 
 
